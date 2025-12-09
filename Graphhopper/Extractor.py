@@ -6,6 +6,7 @@ class City(Enum):
     BANGALORE = "BLR"
     MUMBAI = "MUM"
     HYDERABAD = "HYD"
+    CHENNAI = "CHN"
 
 city = City.KOLKATA.value
 storeCode = ""
