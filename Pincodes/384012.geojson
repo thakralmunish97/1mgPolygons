@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "384012",
+        "Office_Name": "Ganpat Vidyanagar SO",
+        "Division": "Mahesana ",
+        "Region": "Ahmedabad HQ ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.446772,
+              23.519311
+            ],
+            [
+              72.460628,
+              23.515831
+            ],
+            [
+              72.465384,
+              23.517885
+            ],
+            [
+              72.46495,
+              23.528748
+            ],
+            [
+              72.452023,
+              23.53445
+            ],
+            [
+              72.446772,
+              23.519311
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "277403",
+        "Office_Name": "Majhua SO",
+        "Division": "Ballia ",
+        "Region": "Varanasi ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.339262,
+              25.80283
+            ],
+            [
+              84.328575,
+              25.766543
+            ],
+            [
+              84.349948,
+              25.743972
+            ],
+            [
+              84.354838,
+              25.743511
+            ],
+            [
+              84.357009,
+              25.743274
+            ],
+            [
+              84.384087,
+              25.772336
+            ],
+            [
+              84.373265,
+              25.797584
+            ],
+            [
+              84.339262,
+              25.80283
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

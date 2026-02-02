@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522239",
+        "Office_Name": "A.P.High Court S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.493076,
+              16.525385
+            ],
+            [
+              80.474871,
+              16.526332
+            ],
+            [
+              80.472853,
+              16.514811
+            ],
+            [
+              80.492561,
+              16.514482
+            ],
+            [
+              80.493076,
+              16.525385
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

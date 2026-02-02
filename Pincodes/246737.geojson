@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "246737",
+        "Office_Name": "Rahu Nagli SO",
+        "Division": "Bijnor ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.374831,
+              29.159035
+            ],
+            [
+              78.378958,
+              29.159671
+            ],
+            [
+              78.379686,
+              29.164331
+            ],
+            [
+              78.378108,
+              29.167297
+            ],
+            [
+              78.373011,
+              29.167826
+            ],
+            [
+              78.371433,
+              29.166132
+            ],
+            [
+              78.369613,
+              29.164013
+            ],
+            [
+              78.368642,
+              29.161154
+            ],
+            [
+              78.374831,
+              29.159035
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

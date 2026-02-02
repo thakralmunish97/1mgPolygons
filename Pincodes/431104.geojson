@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "431104",
+        "Office_Name": "Pishore S.O",
+        "Division": "Chhatrapati Sambhajinagar ",
+        "Region": "al Office, Aurangabad",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.297379,
+              20.225441
+            ],
+            [
+              75.3414,
+              20.226003
+            ],
+            [
+              75.462378,
+              20.270189
+            ],
+            [
+              75.458978,
+              20.332575
+            ],
+            [
+              75.251533,
+              20.352151
+            ],
+            [
+              75.2117,
+              20.308443
+            ],
+            [
+              75.269992,
+              20.225092
+            ],
+            [
+              75.297379,
+              20.225441
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

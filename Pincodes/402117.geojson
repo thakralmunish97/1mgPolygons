@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "402117",
+        "Office_Name": "Morba SO",
+        "Division": "Raigad ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.272086,
+              18.202842
+            ],
+            [
+              73.249454,
+              18.216389
+            ],
+            [
+              73.231956,
+              18.197076
+            ],
+            [
+              73.24284,
+              18.176023
+            ],
+            [
+              73.264014,
+              18.168938
+            ],
+            [
+              73.274002,
+              18.19307
+            ],
+            [
+              73.272086,
+              18.202842
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

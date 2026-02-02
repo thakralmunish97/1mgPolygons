@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "221709",
+        "Office_Name": "GARHMALPUR SO",
+        "Division": "Ballia ",
+        "Region": "Varanasi ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.938232,
+              25.966545
+            ],
+            [
+              83.930668,
+              25.965299
+            ],
+            [
+              83.934618,
+              25.942609
+            ],
+            [
+              83.941144,
+              25.929333
+            ],
+            [
+              83.95581,
+              25.936228
+            ],
+            [
+              83.982191,
+              25.948629
+            ],
+            [
+              83.966219,
+              25.963447
+            ],
+            [
+              83.951277,
+              25.968694
+            ],
+            [
+              83.938232,
+              25.966545
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

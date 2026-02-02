@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "713401",
+        "Office_Name": "Ajhapur SO",
+        "Division": "Burdwan ",
+        "Region": "South Bengal ",
+        "Circle": "West Bengal "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.046332,
+              23.127072
+            ],
+            [
+              88.074249,
+              23.142532
+            ],
+            [
+              88.08533,
+              23.146215
+            ],
+            [
+              88.052102,
+              23.154642
+            ],
+            [
+              88.038803,
+              23.153079
+            ],
+            [
+              88.02842,
+              23.151539
+            ],
+            [
+              88.028412,
+              23.151538
+            ],
+            [
+              88.017921,
+              23.149982
+            ],
+            [
+              88.046332,
+              23.127072
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

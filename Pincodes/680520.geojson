@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "680520",
+        "Office_Name": "Thozhiyur SO",
+        "Division": "Trichur ",
+        "Region": "Kochi ",
+        "Circle": "Kerala "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.040027,
+              10.630303
+            ],
+            [
+              76.040429,
+              10.633614
+            ],
+            [
+              76.043592,
+              10.645172
+            ],
+            [
+              76.033974,
+              10.648799
+            ],
+            [
+              76.029494,
+              10.644076
+            ],
+            [
+              76.027847,
+              10.637495
+            ],
+            [
+              76.029337,
+              10.634412
+            ],
+            [
+              76.040027,
+              10.630303
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

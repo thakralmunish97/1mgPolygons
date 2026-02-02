@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "402125",
+        "Office_Name": "PCTS Nagothane SO",
+        "Division": "Raigad ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.098114,
+              18.581389
+            ],
+            [
+              73.09582,
+              18.578373
+            ],
+            [
+              73.102999,
+              18.575089
+            ],
+            [
+              73.107096,
+              18.576614
+            ],
+            [
+              73.106398,
+              18.58251
+            ],
+            [
+              73.098114,
+              18.581389
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

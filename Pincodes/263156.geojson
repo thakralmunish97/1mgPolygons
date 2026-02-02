@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "263156",
+        "Office_Name": "Ghorakhal SO",
+        "Division": "Nainital ",
+        "Region": "",
+        "Circle": "Uttarakhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.548775,
+              29.375818
+            ],
+            [
+              79.546757,
+              29.384568
+            ],
+            [
+              79.541444,
+              29.379082
+            ],
+            [
+              79.548775,
+              29.375818
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

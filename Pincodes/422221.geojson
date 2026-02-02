@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "422221",
+        "Office_Name": "Ojhar A.F. Stn. S.O",
+        "Division": "Nasik ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.935414,
+              20.100551
+            ],
+            [
+              73.937517,
+              20.113045
+            ],
+            [
+              73.913526,
+              20.112601
+            ],
+            [
+              73.923397,
+              20.100631
+            ],
+            [
+              73.935414,
+              20.100551
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

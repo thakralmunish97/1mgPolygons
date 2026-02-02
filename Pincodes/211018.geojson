@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "211018",
+        "Office_Name": "Public Service Commission SO",
+        "Division": "Prayagraj ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.842779,
+              25.458974
+            ],
+            [
+              81.842096,
+              25.459056
+            ],
+            [
+              81.841898,
+              25.45896
+            ],
+            [
+              81.841782,
+              25.45876
+            ],
+            [
+              81.841798,
+              25.458609
+            ],
+            [
+              81.841745,
+              25.458223
+            ],
+            [
+              81.841625,
+              25.457768
+            ],
+            [
+              81.84164,
+              25.457302
+            ],
+            [
+              81.84246,
+              25.457138
+            ],
+            [
+              81.842779,
+              25.458974
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

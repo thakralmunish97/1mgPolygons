@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "160018",
+        "Office_Name": "Sector 18 Chandigarh SO",
+        "Division": "Chandigarh ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.79098,
+              30.740458
+            ],
+            [
+              76.785879,
+              30.737448
+            ],
+            [
+              76.781672,
+              30.734711
+            ],
+            [
+              76.781286,
+              30.734453
+            ],
+            [
+              76.779694,
+              30.733383
+            ],
+            [
+              76.782295,
+              30.730504
+            ],
+            [
+              76.784885,
+              30.727638
+            ],
+            [
+              76.796185,
+              30.734705
+            ],
+            [
+              76.79098,
+              30.740458
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "146115",
+        "Office_Name": "Pajjodeotta SO",
+        "Division": "Hoshiarpur ",
+        "Region": "Punjab West ",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.736538,
+              31.556749
+            ],
+            [
+              75.731094,
+              31.582991
+            ],
+            [
+              75.687156,
+              31.56462
+            ],
+            [
+              75.690946,
+              31.556929
+            ],
+            [
+              75.737166,
+              31.553723
+            ],
+            [
+              75.736634,
+              31.556286
+            ],
+            [
+              75.736623,
+              31.55634
+            ],
+            [
+              75.736538,
+              31.556749
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

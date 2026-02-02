@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244223",
+        "Office_Name": "Bhartiya Gram SO",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.222104,
+              28.826779
+            ],
+            [
+              78.219099,
+              28.81941
+            ],
+            [
+              78.224594,
+              28.812641
+            ],
+            [
+              78.234384,
+              28.819635
+            ],
+            [
+              78.242628,
+              28.824974
+            ],
+            [
+              78.239708,
+              28.831967
+            ],
+            [
+              78.23593,
+              28.830463
+            ],
+            [
+              78.222104,
+              28.826779
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

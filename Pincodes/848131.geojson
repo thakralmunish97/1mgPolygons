@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "848131",
+        "Office_Name": "Waini SO",
+        "Division": "Samastipur ",
+        "Region": "Muzaffarpur ",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.628602,
+              25.874284
+            ],
+            [
+              85.674518,
+              25.874828
+            ],
+            [
+              85.713358,
+              25.875288
+            ],
+            [
+              85.710675,
+              25.887025
+            ],
+            [
+              85.682166,
+              25.914821
+            ],
+            [
+              85.624631,
+              25.912196
+            ],
+            [
+              85.628602,
+              25.874284
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

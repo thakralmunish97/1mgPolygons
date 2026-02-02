@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "742408",
+        "Office_Name": "Sargachi Ashram SO",
+        "Division": "Murshidabad ",
+        "Region": "Kolkata ",
+        "Circle": "West Bengal "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.263679,
+              24.035311
+            ],
+            [
+              88.26136,
+              24.034412
+            ],
+            [
+              88.257192,
+              24.032795
+            ],
+            [
+              88.251588,
+              24.030622
+            ],
+            [
+              88.238676,
+              24.030005
+            ],
+            [
+              88.235322,
+              24.025078
+            ],
+            [
+              88.235605,
+              24.018431
+            ],
+            [
+              88.252982,
+              24.010717
+            ],
+            [
+              88.263032,
+              24.033824
+            ],
+            [
+              88.263679,
+              24.035311
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

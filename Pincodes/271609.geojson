@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "271609",
+        "Office_Name": "Chamrupur SO",
+        "Division": "Gonda ",
+        "Region": "Gorakhpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.325309,
+              27.311575
+            ],
+            [
+              82.31589,
+              27.311079
+            ],
+            [
+              82.28446,
+              27.297503
+            ],
+            [
+              82.304379,
+              27.285228
+            ],
+            [
+              82.325309,
+              27.311575
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

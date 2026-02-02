@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "415213",
+        "Office_Name": "Chimbhave SO",
+        "Division": "Raigad ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.298001,
+              18.036859
+            ],
+            [
+              73.314509,
+              18.042972
+            ],
+            [
+              73.313781,
+              18.049893
+            ],
+            [
+              73.293146,
+              18.047009
+            ],
+            [
+              73.301865,
+              18.045401
+            ],
+            [
+              73.298001,
+              18.036859
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

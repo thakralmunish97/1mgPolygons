@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "332317",
+        "Office_Name": "Roru Badi SO",
+        "Division": "Sikar ",
+        "Region": "",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.841021,
+              27.900548
+            ],
+            [
+              74.834827,
+              27.806441
+            ],
+            [
+              74.868393,
+              27.812053
+            ],
+            [
+              74.928818,
+              27.817519
+            ],
+            [
+              74.946327,
+              27.844862
+            ],
+            [
+              74.939117,
+              27.896435
+            ],
+            [
+              74.880409,
+              27.905685
+            ],
+            [
+              74.841021,
+              27.900548
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

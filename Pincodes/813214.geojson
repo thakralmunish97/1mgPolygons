@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "813214",
+        "Office_Name": "STP Kahalgaon SO",
+        "Division": "Bhagalpur ",
+        "Region": "East , Bhagalpur",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.239571,
+              25.243362
+            ],
+            [
+              87.239606,
+              25.243337
+            ],
+            [
+              87.256508,
+              25.231024
+            ],
+            [
+              87.274189,
+              25.232304
+            ],
+            [
+              87.268524,
+              25.246585
+            ],
+            [
+              87.25223,
+              25.244771
+            ],
+            [
+              87.239571,
+              25.243362
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "524410",
+        "Office_Name": "Kadivedu S.O",
+        "Division": "Gudur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.794044,
+              14.047667
+            ],
+            [
+              79.994442,
+              14.02178
+            ],
+            [
+              79.987414,
+              13.994557
+            ],
+            [
+              80.013602,
+              14.095986
+            ],
+            [
+              79.995911,
+              14.095826
+            ],
+            [
+              79.930364,
+              14.093471
+            ],
+            [
+              79.872322,
+              14.119596
+            ],
+            [
+              79.862709,
+              14.094956
+            ],
+            [
+              79.794044,
+              14.047667
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

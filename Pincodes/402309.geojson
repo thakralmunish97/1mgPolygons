@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "402309",
+        "Office_Name": "Midc Mahad SO",
+        "Division": "Raigad ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.466704,
+              18.097786
+            ],
+            [
+              73.467197,
+              18.097905
+            ],
+            [
+              73.466989,
+              18.098546
+            ],
+            [
+              73.466408,
+              18.09846
+            ],
+            [
+              73.466816,
+              18.098215
+            ],
+            [
+              73.466704,
+              18.097786
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

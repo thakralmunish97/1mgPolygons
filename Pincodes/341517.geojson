@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "341517",
+        "Office_Name": "Ladariya S.O",
+        "Division": "Nagaur ",
+        "Region": "Jodhpur ",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.645545,
+              27.195903
+            ],
+            [
+              74.743901,
+              27.200483
+            ],
+            [
+              74.779545,
+              27.235605
+            ],
+            [
+              74.774608,
+              27.271478
+            ],
+            [
+              74.748216,
+              27.307966
+            ],
+            [
+              74.619484,
+              27.224105
+            ],
+            [
+              74.645545,
+              27.195903
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

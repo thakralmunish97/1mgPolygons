@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "517319",
+        "Office_Name": "Chinnatippasamudram S.O",
+        "Division": "Chittoor ",
+        "Region": "Kurnool ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.557911,
+              13.677012
+            ],
+            [
+              78.531132,
+              13.666504
+            ],
+            [
+              78.502636,
+              13.637145
+            ],
+            [
+              78.520145,
+              13.61112
+            ],
+            [
+              78.561859,
+              13.598273
+            ],
+            [
+              78.605348,
+              13.612399
+            ],
+            [
+              78.610456,
+              13.639571
+            ],
+            [
+              78.557911,
+              13.677012
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

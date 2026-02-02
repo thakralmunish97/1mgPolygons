@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "798615",
+        "Office_Name": "Impur S.O",
+        "Division": "Nagaland ",
+        "Region": "North East - II ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              94.574261,
+              26.374863
+            ],
+            [
+              94.659576,
+              26.498532
+            ],
+            [
+              94.620609,
+              26.510823
+            ],
+            [
+              94.613122,
+              26.516392
+            ],
+            [
+              94.595203,
+              26.489443
+            ],
+            [
+              94.53804,
+              26.514522
+            ],
+            [
+              94.477865,
+              26.458381
+            ],
+            [
+              94.519157,
+              26.372718
+            ],
+            [
+              94.574261,
+              26.374863
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

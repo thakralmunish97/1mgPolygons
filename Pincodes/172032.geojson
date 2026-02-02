@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "172032",
+        "Office_Name": "Chowai SO",
+        "Division": "Rampur Bushahr ",
+        "Region": "",
+        "Circle": "Himachal Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.476264,
+              31.517386
+            ],
+            [
+              77.473073,
+              31.472387
+            ],
+            [
+              77.442241,
+              31.449607
+            ],
+            [
+              77.431925,
+              31.423144
+            ],
+            [
+              77.475502,
+              31.440381
+            ],
+            [
+              77.523258,
+              31.495726
+            ],
+            [
+              77.528067,
+              31.496018
+            ],
+            [
+              77.476264,
+              31.517386
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

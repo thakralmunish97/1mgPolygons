@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "110069",
+        "Office_Name": "Union Public Service Commission SO",
+        "Division": "New Delhi Central ",
+        "Region": "",
+        "Circle": "Delhi "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.228454,
+              28.609087
+            ],
+            [
+              77.22816,
+              28.609484
+            ],
+            [
+              77.228069,
+              28.609418
+            ],
+            [
+              77.22783,
+              28.609351
+            ],
+            [
+              77.227344,
+              28.609757
+            ],
+            [
+              77.226233,
+              28.608925
+            ],
+            [
+              77.225793,
+              28.607683
+            ],
+            [
+              77.226976,
+              28.607042
+            ],
+            [
+              77.227794,
+              28.608072
+            ],
+            [
+              77.228454,
+              28.609087
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

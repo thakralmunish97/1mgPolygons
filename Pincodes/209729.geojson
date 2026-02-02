@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "209729",
+        "Office_Name": "Sikanderpur SO Kannauj",
+        "Division": "Fatehgarh ",
+        "Region": "Kanpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.586254,
+              27.075635
+            ],
+            [
+              79.618199,
+              27.074412
+            ],
+            [
+              79.643648,
+              27.102686
+            ],
+            [
+              79.637266,
+              27.149028
+            ],
+            [
+              79.635232,
+              27.163793
+            ],
+            [
+              79.611017,
+              27.174026
+            ],
+            [
+              79.592924,
+              27.175391
+            ],
+            [
+              79.534075,
+              27.179829
+            ],
+            [
+              79.567808,
+              27.108951
+            ],
+            [
+              79.586254,
+              27.075635
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

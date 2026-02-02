@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "272182",
+        "Office_Name": "Walterganj SO",
+        "Division": "Basti ",
+        "Region": "Gorakhpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.771221,
+              26.840361
+            ],
+            [
+              82.742672,
+              26.838929
+            ],
+            [
+              82.730918,
+              26.824999
+            ],
+            [
+              82.75826,
+              26.830564
+            ],
+            [
+              82.771221,
+              26.840361
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "225003",
+        "Office_Name": "Gandhi Aashram SO",
+        "Division": "Barabanki ",
+        "Region": "Lucknow  HQ ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.120654,
+              26.911968
+            ],
+            [
+              81.112632,
+              26.900946
+            ],
+            [
+              81.146225,
+              26.899721
+            ],
+            [
+              81.163401,
+              26.902171
+            ],
+            [
+              81.171887,
+              26.919009
+            ],
+            [
+              81.14777,
+              26.924672
+            ],
+            [
+              81.120654,
+              26.911968
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

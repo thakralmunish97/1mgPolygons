@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "605012",
+        "Office_Name": "Pondicherry NDC",
+        "Division": "Pondicherry ",
+        "Region": "Chennai City ",
+        "Circle": "Tamilnadu "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.831516,
+              11.921726
+            ],
+            [
+              79.832651,
+              11.92328
+            ],
+            [
+              79.833622,
+              11.925418
+            ],
+            [
+              79.831801,
+              11.925181
+            ],
+            [
+              79.831801,
+              11.924824
+            ],
+            [
+              79.831621,
+              11.923177
+            ],
+            [
+              79.831452,
+              11.921639
+            ],
+            [
+              79.831516,
+              11.921726
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

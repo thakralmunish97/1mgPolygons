@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "799046",
+        "Office_Name": "NIT Agartala S.O",
+        "Division": "Agartala ",
+        "Region": "North East - I ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.416893,
+              23.827907
+            ],
+            [
+              91.427364,
+              23.83662
+            ],
+            [
+              91.431275,
+              23.849567
+            ],
+            [
+              91.438265,
+              23.863457
+            ],
+            [
+              91.416636,
+              23.85605
+            ],
+            [
+              91.411142,
+              23.847102
+            ],
+            [
+              91.416893,
+              23.827907
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "382010",
+        "Office_Name": "Gandhinagar Gujarat HO",
+        "Division": "Gandhinagar ",
+        "Region": "Ahmedabad HQ ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.662844,
+              23.221311
+            ],
+            [
+              72.665548,
+              23.225493
+            ],
+            [
+              72.651558,
+              23.233065
+            ],
+            [
+              72.64143,
+              23.216186
+            ],
+            [
+              72.654927,
+              23.209066
+            ],
+            [
+              72.662844,
+              23.221311
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

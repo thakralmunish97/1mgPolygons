@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "500041",
+        "Office_Name": "Raj Bhawan S.O",
+        "Division": "Hyderabad City ",
+        "Region": "Hyderabad City ",
+        "Circle": "Telangana "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.461914,
+              17.419637
+            ],
+            [
+              78.460154,
+              17.41981
+            ],
+            [
+              78.45988,
+              17.419579
+            ],
+            [
+              78.460411,
+              17.419173
+            ],
+            [
+              78.460927,
+              17.419333
+            ],
+            [
+              78.461868,
+              17.419289
+            ],
+            [
+              78.461914,
+              17.419637
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

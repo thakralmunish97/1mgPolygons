@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "826011",
+        "Office_Name": "NDC DHANBAD\u00c3\u00a1",
+        "Division": "Dhanbad ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4341,
+              23.7968
+            ],
+            [
+              86.433756,
+              23.797027
+            ],
+            [
+              86.433671,
+              23.796762
+            ],
+            [
+              86.4341,
+              23.7968
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

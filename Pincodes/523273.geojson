@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523273",
+        "Office_Name": "Peridepi S.O",
+        "Division": "Prakasam ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8876,
+              15.387322
+            ],
+            [
+              79.956617,
+              15.40743
+            ],
+            [
+              79.956613,
+              15.407438
+            ],
+            [
+              79.936008,
+              15.450371
+            ],
+            [
+              79.886559,
+              15.454208
+            ],
+            [
+              79.880562,
+              15.454673
+            ],
+            [
+              79.8876,
+              15.387322
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

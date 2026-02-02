@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "690511",
+        "Office_Name": "Muttomalleppey SO",
+        "Division": "Mavelikara ",
+        "Region": "Kochi ",
+        "Circle": "Kerala "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.504665,
+              9.257677
+            ],
+            [
+              76.474929,
+              9.264165
+            ],
+            [
+              76.480861,
+              9.247049
+            ],
+            [
+              76.484404,
+              9.236824
+            ],
+            [
+              76.504081,
+              9.247254
+            ],
+            [
+              76.511241,
+              9.254322
+            ],
+            [
+              76.506746,
+              9.256239
+            ],
+            [
+              76.504665,
+              9.257677
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

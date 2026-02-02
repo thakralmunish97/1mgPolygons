@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523228",
+        "Office_Name": "P.G.Palli S.O",
+        "Division": "Markapur  ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.356651,
+              15.514724
+            ],
+            [
+              79.318542,
+              15.496694
+            ],
+            [
+              79.318886,
+              15.459471
+            ],
+            [
+              79.330323,
+              15.436617
+            ],
+            [
+              79.342403,
+              15.412478
+            ],
+            [
+              79.369696,
+              15.443091
+            ],
+            [
+              79.382428,
+              15.472707
+            ],
+            [
+              79.356651,
+              15.514724
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

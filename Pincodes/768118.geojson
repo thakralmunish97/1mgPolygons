@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "768118",
+        "Office_Name": "Naktideul S.O",
+        "Division": "Sambalpur ",
+        "Region": "Sambalpur ",
+        "Circle": "Odisha "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.550077,
+              21.242003
+            ],
+            [
+              84.559364,
+              21.253862
+            ],
+            [
+              84.545116,
+              21.26682
+            ],
+            [
+              84.526892,
+              21.251506
+            ],
+            [
+              84.523137,
+              21.248057
+            ],
+            [
+              84.523979,
+              21.244775
+            ],
+            [
+              84.528653,
+              21.239797
+            ],
+            [
+              84.550077,
+              21.242003
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

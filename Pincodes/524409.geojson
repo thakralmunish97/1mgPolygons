@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "524409",
+        "Office_Name": "Kalichedu S.O",
+        "Division": "Gudur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.649241,
+              14.34362
+            ],
+            [
+              79.650212,
+              14.293523
+            ],
+            [
+              79.739064,
+              14.252821
+            ],
+            [
+              79.831014,
+              14.216356
+            ],
+            [
+              79.83543,
+              14.219575
+            ],
+            [
+              79.845543,
+              14.226947
+            ],
+            [
+              79.726485,
+              14.342279
+            ],
+            [
+              79.649241,
+              14.34362
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

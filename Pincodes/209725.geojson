@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "209725",
+        "Office_Name": "Kannauj SO",
+        "Division": "Fatehgarh ",
+        "Region": "Kanpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.875372,
+              27.037416
+            ],
+            [
+              79.92041,
+              27.036169
+            ],
+            [
+              79.956468,
+              27.042276
+            ],
+            [
+              79.954887,
+              27.067476
+            ],
+            [
+              79.952686,
+              27.068217
+            ],
+            [
+              79.877434,
+              27.058514
+            ],
+            [
+              79.875372,
+              27.037416
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

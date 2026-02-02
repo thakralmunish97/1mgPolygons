@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "415603",
+        "Office_Name": "Alore S.O",
+        "Division": "RATNAGIRI ",
+        "Region": "Goa-Panaji ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.680496,
+              17.475629
+            ],
+            [
+              73.652687,
+              17.493806
+            ],
+            [
+              73.602905,
+              17.502968
+            ],
+            [
+              73.586082,
+              17.471553
+            ],
+            [
+              73.591168,
+              17.470384
+            ],
+            [
+              73.634491,
+              17.460426
+            ],
+            [
+              73.680496,
+              17.475629
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

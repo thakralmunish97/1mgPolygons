@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "422501",
+        "Office_Name": "Devlali Air Force S.O",
+        "Division": "Nasik ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.831052,
+              19.92373
+            ],
+            [
+              73.83972,
+              19.923407
+            ],
+            [
+              73.838605,
+              19.928894
+            ],
+            [
+              73.828821,
+              19.929782
+            ],
+            [
+              73.829327,
+              19.926393
+            ],
+            [
+              73.831052,
+              19.92373
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

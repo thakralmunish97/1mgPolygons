@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "221109",
+        "Office_Name": "Jayapur SO Varanasi",
+        "Division": "Varanasi West ",
+        "Region": "Varanasi ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.816057,
+              25.229479
+            ],
+            [
+              82.81198,
+              25.212163
+            ],
+            [
+              82.802925,
+              25.204359
+            ],
+            [
+              82.8116,
+              25.203854
+            ],
+            [
+              82.823279,
+              25.206028
+            ],
+            [
+              82.842343,
+              25.224975
+            ],
+            [
+              82.816057,
+              25.229479
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

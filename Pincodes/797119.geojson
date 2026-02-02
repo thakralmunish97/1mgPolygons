@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "797119",
+        "Office_Name": "Monkhola S.O",
+        "Division": "Nagaland ",
+        "Region": "North East - II ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              94.108771,
+              25.656268
+            ],
+            [
+              94.108686,
+              25.655913
+            ],
+            [
+              94.109053,
+              25.655821
+            ],
+            [
+              94.109179,
+              25.656198
+            ],
+            [
+              94.108771,
+              25.656268
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

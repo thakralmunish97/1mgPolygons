@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "506365",
+        "Office_Name": "Parwathagiri S.O",
+        "Division": "Warangal ",
+        "Region": "Hyderabad ",
+        "Circle": "Telangana "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.703526,
+              17.741927
+            ],
+            [
+              79.708383,
+              17.716028
+            ],
+            [
+              79.729754,
+              17.711865
+            ],
+            [
+              79.752097,
+              17.728978
+            ],
+            [
+              79.755497,
+              17.766434
+            ],
+            [
+              79.710326,
+              17.767359
+            ],
+            [
+              79.703526,
+              17.741927
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

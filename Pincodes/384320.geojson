@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "384320",
+        "Office_Name": "Umta SO",
+        "Division": "Mahesana ",
+        "Region": "Ahmedabad HQ ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.548515,
+              23.766167
+            ],
+            [
+              72.574825,
+              23.770184
+            ],
+            [
+              72.579031,
+              23.795395
+            ],
+            [
+              72.569218,
+              23.810657
+            ],
+            [
+              72.561207,
+              23.815422
+            ],
+            [
+              72.554652,
+              23.814711
+            ],
+            [
+              72.543367,
+              23.791137
+            ],
+            [
+              72.548515,
+              23.766167
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

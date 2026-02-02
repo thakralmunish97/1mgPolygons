@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "827016",
+        "Office_Name": "NDC B.S.CITY",
+        "Division": "Dhanbad ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.1392,
+              23.6575
+            ],
+            [
+              86.138992,
+              23.657045
+            ],
+            [
+              86.139443,
+              23.656986
+            ],
+            [
+              86.1392,
+              23.6575
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

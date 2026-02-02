@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "825415",
+        "Office_Name": "NTPC North Karanpura SO",
+        "Division": "Hazaribagh ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.029322,
+              23.846986
+            ],
+            [
+              85.02199,
+              23.847152
+            ],
+            [
+              85.021686,
+              23.841532
+            ],
+            [
+              85.029884,
+              23.841629
+            ],
+            [
+              85.029322,
+              23.846986
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

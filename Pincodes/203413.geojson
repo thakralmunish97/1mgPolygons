@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "203413",
+        "Office_Name": "Agauta SO",
+        "Division": "Bulandshahar ",
+        "Region": "Agra ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.890298,
+              28.5506
+            ],
+            [
+              77.88485,
+              28.552213
+            ],
+            [
+              77.872054,
+              28.546991
+            ],
+            [
+              77.877263,
+              28.538801
+            ],
+            [
+              77.889888,
+              28.540572
+            ],
+            [
+              77.890298,
+              28.5506
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

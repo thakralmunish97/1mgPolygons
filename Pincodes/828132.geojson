@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "828132",
+        "Office_Name": "Patherdih Coal Washery SO",
+        "Division": "Dhanbad ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.431611,
+              23.691209
+            ],
+            [
+              86.428993,
+              23.68863
+            ],
+            [
+              86.429084,
+              23.684795
+            ],
+            [
+              86.437217,
+              23.67165
+            ],
+            [
+              86.444803,
+              23.674012
+            ],
+            [
+              86.441951,
+              23.677736
+            ],
+            [
+              86.438947,
+              23.679682
+            ],
+            [
+              86.437854,
+              23.682322
+            ],
+            [
+              86.431611,
+              23.691209
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

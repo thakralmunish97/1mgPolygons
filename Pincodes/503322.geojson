@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "503322",
+        "Office_Name": "Telangana University S.O",
+        "Division": "Nizamabad ",
+        "Region": "Hyderabad ",
+        "Circle": "Telangana "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.236101,
+              18.611694
+            ],
+            [
+              78.226146,
+              18.620965
+            ],
+            [
+              78.208426,
+              18.6285
+            ],
+            [
+              78.201628,
+              18.623206
+            ],
+            [
+              78.200853,
+              18.60793
+            ],
+            [
+              78.236101,
+              18.611694
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

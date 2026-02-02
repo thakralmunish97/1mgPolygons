@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "431148",
+        "Office_Name": "Paithan Sakhar Karkhana S.O",
+        "Division": "Chhatrapati Sambhajinagar ",
+        "Region": "al Office, Aurangabad",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.373548,
+              19.52206
+            ],
+            [
+              75.377141,
+              19.505917
+            ],
+            [
+              75.403871,
+              19.515544
+            ],
+            [
+              75.411857,
+              19.532694
+            ],
+            [
+              75.435215,
+              19.55429
+            ],
+            [
+              75.429547,
+              19.574914
+            ],
+            [
+              75.397625,
+              19.570743
+            ],
+            [
+              75.375705,
+              19.567878
+            ],
+            [
+              75.360343,
+              19.550812
+            ],
+            [
+              75.370443,
+              19.53601
+            ],
+            [
+              75.373548,
+              19.52206
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

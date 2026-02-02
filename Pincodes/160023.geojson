@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "160023",
+        "Office_Name": "Sector 23  Chandigarh SO",
+        "Division": "Chandigarh ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.753836,
+              30.745303
+            ],
+            [
+              76.763191,
+              30.732688
+            ],
+            [
+              76.774408,
+              30.739587
+            ],
+            [
+              76.764393,
+              30.751573
+            ],
+            [
+              76.753836,
+              30.745303
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

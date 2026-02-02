@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "247002",
+        "Office_Name": "PTC SO",
+        "Division": "Saharanpur ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.494209,
+              29.994339
+            ],
+            [
+              77.487017,
+              29.979677
+            ],
+            [
+              77.492623,
+              29.974454
+            ],
+            [
+              77.509274,
+              29.970364
+            ],
+            [
+              77.517514,
+              29.972706
+            ],
+            [
+              77.523462,
+              29.982353
+            ],
+            [
+              77.518364,
+              29.993603
+            ],
+            [
+              77.494209,
+              29.994339
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

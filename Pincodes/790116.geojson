@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "790116",
+        "Office_Name": "Tenga Market S.O",
+        "Division": "Arunachal Pradesh ",
+        "Region": "Shillong HQ ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.421725,
+              27.22969
+            ],
+            [
+              92.413627,
+              27.158721
+            ],
+            [
+              92.515345,
+              27.160451
+            ],
+            [
+              92.532096,
+              27.230396
+            ],
+            [
+              92.484627,
+              27.267602
+            ],
+            [
+              92.447376,
+              27.236624
+            ],
+            [
+              92.421725,
+              27.22969
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

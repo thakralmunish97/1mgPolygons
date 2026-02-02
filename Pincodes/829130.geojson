@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "829130",
+        "Office_Name": "RAMGARH COURT SO",
+        "Division": "Hazaribagh ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.565445,
+              23.606609
+            ],
+            [
+              85.582196,
+              23.605052
+            ],
+            [
+              85.584138,
+              23.617505
+            ],
+            [
+              85.566901,
+              23.616838
+            ],
+            [
+              85.565445,
+              23.606609
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

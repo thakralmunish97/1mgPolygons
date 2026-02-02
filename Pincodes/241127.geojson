@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "241127",
+        "Office_Name": "Sandila I Estate SO",
+        "Division": "Hardoi ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.441192,
+              27.089616
+            ],
+            [
+              80.444542,
+              27.079624
+            ],
+            [
+              80.454617,
+              27.079192
+            ],
+            [
+              80.463728,
+              27.089963
+            ],
+            [
+              80.460211,
+              27.09004
+            ],
+            [
+              80.458112,
+              27.091453
+            ],
+            [
+              80.452493,
+              27.092714
+            ],
+            [
+              80.447001,
+              27.092714
+            ],
+            [
+              80.441192,
+              27.089616
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

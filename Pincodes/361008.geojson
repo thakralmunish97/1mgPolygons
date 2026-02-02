@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "361008",
+        "Office_Name": "Patel Colony SO",
+        "Division": "Jamnagar ",
+        "Region": "Rajkot ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.061941,
+              22.487371
+            ],
+            [
+              70.069579,
+              22.493275
+            ],
+            [
+              70.052707,
+              22.505275
+            ],
+            [
+              70.041418,
+              22.497986
+            ],
+            [
+              70.06028,
+              22.479115
+            ],
+            [
+              70.061941,
+              22.487371
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

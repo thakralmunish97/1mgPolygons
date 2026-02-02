@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "534215",
+        "Office_Name": "Venkatrayapuram S.O",
+        "Division": "Bhimavaram ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6679,
+              16.740668
+            ],
+            [
+              81.669063,
+              16.732053
+            ],
+            [
+              81.671745,
+              16.733848
+            ],
+            [
+              81.681292,
+              16.736128
+            ],
+            [
+              81.673307,
+              16.741571
+            ],
+            [
+              81.6679,
+              16.740668
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

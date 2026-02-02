@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "492002",
+        "Office_Name": "Mantralaya Raipur SO",
+        "Division": "Raipur ",
+        "Region": "",
+        "Circle": "Chattisgarh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.797955,
+              21.160131
+            ],
+            [
+              81.797354,
+              21.160101
+            ],
+            [
+              81.797327,
+              21.15977
+            ],
+            [
+              81.798314,
+              21.159805
+            ],
+            [
+              81.797955,
+              21.160131
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

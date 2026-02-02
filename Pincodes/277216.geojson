@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "277216",
+        "Office_Name": "Lalganj Ballia SO",
+        "Division": "Ballia ",
+        "Region": "Varanasi ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.466796,
+              25.713776
+            ],
+            [
+              84.496336,
+              25.720735
+            ],
+            [
+              84.486375,
+              25.741457
+            ],
+            [
+              84.465937,
+              25.736354
+            ],
+            [
+              84.466796,
+              25.713776
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

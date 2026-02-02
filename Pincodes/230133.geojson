@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "230133",
+        "Office_Name": "PIRTHIGANJ BAZAR SO",
+        "Division": "Pratapgarh ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.271769,
+              25.858297
+            ],
+            [
+              82.252361,
+              25.863549
+            ],
+            [
+              82.215608,
+              25.8705
+            ],
+            [
+              82.212697,
+              25.870682
+            ],
+            [
+              82.203953,
+              25.85997
+            ],
+            [
+              82.202374,
+              25.844021
+            ],
+            [
+              82.22204,
+              25.835063
+            ],
+            [
+              82.246936,
+              25.837685
+            ],
+            [
+              82.265983,
+              25.853494
+            ],
+            [
+              82.271769,
+              25.858297
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

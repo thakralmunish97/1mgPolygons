@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244245",
+        "Office_Name": "Kundan Nagar SO",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.461145,
+              28.876127
+            ],
+            [
+              78.484451,
+              28.873363
+            ],
+            [
+              78.490884,
+              28.888562
+            ],
+            [
+              78.487971,
+              28.899614
+            ],
+            [
+              78.473539,
+              28.896984
+            ],
+            [
+              78.46015,
+              28.898257
+            ],
+            [
+              78.461145,
+              28.876127
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "516005",
+        "Office_Name": "Yogi Vemana University S.O.",
+        "Division": "Cuddapah ",
+        "Region": "Kurnool ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.72224,
+              14.496452
+            ],
+            [
+              78.705969,
+              14.473079
+            ],
+            [
+              78.740265,
+              14.466791
+            ],
+            [
+              78.757822,
+              14.463572
+            ],
+            [
+              78.775353,
+              14.460357
+            ],
+            [
+              78.776951,
+              14.463937
+            ],
+            [
+              78.779973,
+              14.498277
+            ],
+            [
+              78.72224,
+              14.496452
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

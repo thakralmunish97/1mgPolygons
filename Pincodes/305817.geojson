@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "305817",
+        "Office_Name": "Central University of Rajasthan S.O",
+        "Division": "Ajmer ",
+        "Region": "Ajmer ",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.028689,
+              26.633821
+            ],
+            [
+              75.010443,
+              26.634877
+            ],
+            [
+              75.005379,
+              26.624672
+            ],
+            [
+              75.024948,
+              26.616846
+            ],
+            [
+              75.040827,
+              26.620375
+            ],
+            [
+              75.044003,
+              26.632422
+            ],
+            [
+              75.036964,
+              26.633342
+            ],
+            [
+              75.028689,
+              26.633821
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

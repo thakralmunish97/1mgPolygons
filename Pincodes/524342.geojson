@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "524342",
+        "Office_Name": "Dachur S.O",
+        "Division": "Gudur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.590977,
+              14.448029
+            ],
+            [
+              79.565244,
+              14.404298
+            ],
+            [
+              79.598984,
+              14.422676
+            ],
+            [
+              79.61586,
+              14.431868
+            ],
+            [
+              79.632928,
+              14.441164
+            ],
+            [
+              79.632733,
+              14.441211
+            ],
+            [
+              79.590977,
+              14.448029
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

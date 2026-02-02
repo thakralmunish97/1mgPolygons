@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522015",
+        "Office_Name": "Abbineniguntapalem S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.264774,
+              16.146238
+            ],
+            [
+              80.267019,
+              16.103035
+            ],
+            [
+              80.374115,
+              16.095979
+            ],
+            [
+              80.399149,
+              16.10913
+            ],
+            [
+              80.405159,
+              16.112287
+            ],
+            [
+              80.405331,
+              16.123336
+            ],
+            [
+              80.415115,
+              16.128448
+            ],
+            [
+              80.389628,
+              16.14478
+            ],
+            [
+              80.388664,
+              16.150451
+            ],
+            [
+              80.264774,
+              16.146238
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

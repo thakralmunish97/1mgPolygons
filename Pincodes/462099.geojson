@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "462099",
+        "Office_Name": "Nodal Delivery Centre Bhopal G.P.O.",
+        "Division": "Bhopal ",
+        "Region": "",
+        "Circle": "Madhya Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.394147,
+              23.260386
+            ],
+            [
+              77.394415,
+              23.260489
+            ],
+            [
+              77.394367,
+              23.260706
+            ],
+            [
+              77.394077,
+              23.260829
+            ],
+            [
+              77.393846,
+              23.260746
+            ],
+            [
+              77.393766,
+              23.260484
+            ],
+            [
+              77.394147,
+              23.260386
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "826005",
+        "Office_Name": "BCCl Township SO",
+        "Division": "Dhanbad ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.466592,
+              23.80722
+            ],
+            [
+              86.466652,
+              23.807116
+            ],
+            [
+              86.466762,
+              23.807186
+            ],
+            [
+              86.466694,
+              23.80728
+            ],
+            [
+              86.466592,
+              23.80722
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "211005",
+        "Office_Name": "Prayagraj Fort S.O",
+        "Division": "Prayagraj ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.867242,
+              25.439632
+            ],
+            [
+              81.867542,
+              25.434942
+            ],
+            [
+              81.874281,
+              25.433934
+            ],
+            [
+              81.876469,
+              25.434206
+            ],
+            [
+              81.877628,
+              25.436221
+            ],
+            [
+              81.877285,
+              25.438624
+            ],
+            [
+              81.872563,
+              25.440175
+            ],
+            [
+              81.867242,
+              25.439632
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

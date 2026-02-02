@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244412",
+        "Office_Name": "Chandausi SO",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.836949,
+              28.458207
+            ],
+            [
+              78.801988,
+              28.513684
+            ],
+            [
+              78.752095,
+              28.517145
+            ],
+            [
+              78.715324,
+              28.469295
+            ],
+            [
+              78.728076,
+              28.422206
+            ],
+            [
+              78.742464,
+              28.369048
+            ],
+            [
+              78.826394,
+              28.405595
+            ],
+            [
+              78.805884,
+              28.42576
+            ],
+            [
+              78.836949,
+              28.458207
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "160011",
+        "Office_Name": "Sector 11 Chandigarh SO",
+        "Division": "Chandigarh ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.78747,
+              30.765029
+            ],
+            [
+              76.775864,
+              30.758938
+            ],
+            [
+              76.785679,
+              30.746557
+            ],
+            [
+              76.797009,
+              30.753601
+            ],
+            [
+              76.78747,
+              30.765029
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "524413",
+        "Office_Name": "Vidyanagar S.O (Nellore)",
+        "Division": "Gudur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.03177,
+              13.998136
+            ],
+            [
+              80.022615,
+              14.007513
+            ],
+            [
+              80.044039,
+              14.02392
+            ],
+            [
+              80.036296,
+              14.045212
+            ],
+            [
+              80.017911,
+              14.096025
+            ],
+            [
+              80.01765,
+              14.09648
+            ],
+            [
+              80.015652,
+              14.096005
+            ],
+            [
+              80.013602,
+              14.095986
+            ],
+            [
+              79.987414,
+              13.994557
+            ],
+            [
+              80.03177,
+              13.998136
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "793012",
+        "Office_Name": "Mawpat S.O",
+        "Division": "Meghalaya ",
+        "Region": "Shillong HQ ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.929277,
+              25.593407
+            ],
+            [
+              91.931402,
+              25.602367
+            ],
+            [
+              91.92303,
+              25.603025
+            ],
+            [
+              91.920162,
+              25.599128
+            ],
+            [
+              91.917319,
+              25.595265
+            ],
+            [
+              91.921638,
+              25.593821
+            ],
+            [
+              91.926915,
+              25.591859
+            ],
+            [
+              91.929277,
+              25.593407
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

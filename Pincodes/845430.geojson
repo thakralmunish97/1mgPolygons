@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "845430",
+        "Office_Name": "Phenhara SO",
+        "Division": "East Champaran ",
+        "Region": "Muzaffarpur ",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.185188,
+              26.554401
+            ],
+            [
+              85.183756,
+              26.554069
+            ],
+            [
+              85.174703,
+              26.544894
+            ],
+            [
+              85.166054,
+              26.535795
+            ],
+            [
+              85.156202,
+              26.525195
+            ],
+            [
+              85.155595,
+              26.506036
+            ],
+            [
+              85.16734,
+              26.496892
+            ],
+            [
+              85.1766,
+              26.525879
+            ],
+            [
+              85.185188,
+              26.554401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

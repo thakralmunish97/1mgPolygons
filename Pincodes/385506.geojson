@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "385506",
+        "Office_Name": "Sardar Krishinagar SO",
+        "Division": "Banaskantha ",
+        "Region": "Ahmedabad HQ ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.302479,
+              24.317586
+            ],
+            [
+              72.313933,
+              24.317078
+            ],
+            [
+              72.326918,
+              24.320552
+            ],
+            [
+              72.326645,
+              24.323733
+            ],
+            [
+              72.325098,
+              24.324923
+            ],
+            [
+              72.319061,
+              24.326113
+            ],
+            [
+              72.315584,
+              24.327074
+            ],
+            [
+              72.30649,
+              24.32725
+            ],
+            [
+              72.302479,
+              24.317586
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "281206",
+        "Office_Name": "Sonai SO Mathura",
+        "Division": "Mathura ",
+        "Region": "Agra ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89181,
+              27.603693
+            ],
+            [
+              77.839495,
+              27.573932
+            ],
+            [
+              77.825489,
+              27.556502
+            ],
+            [
+              77.837085,
+              27.534538
+            ],
+            [
+              77.837643,
+              27.533481
+            ],
+            [
+              77.879318,
+              27.539941
+            ],
+            [
+              77.910474,
+              27.577605
+            ],
+            [
+              77.89181,
+              27.603693
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "343002",
+        "Office_Name": "I.A.Jalore S.O",
+        "Division": "Sirohi ",
+        "Region": "Jodhpur ",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.627117,
+              25.315011
+            ],
+            [
+              72.634673,
+              25.302597
+            ],
+            [
+              72.648585,
+              25.313925
+            ],
+            [
+              72.641372,
+              25.323856
+            ],
+            [
+              72.627117,
+              25.315011
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

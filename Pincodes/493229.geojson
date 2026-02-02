@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "493229",
+        "Office_Name": "Watgan SO",
+        "Division": "Raipur ",
+        "Region": "",
+        "Circle": "Chattisgarh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.629604,
+              21.252447
+            ],
+            [
+              81.629598,
+              21.252344
+            ],
+            [
+              81.62973,
+              21.252399
+            ],
+            [
+              81.629604,
+              21.252447
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

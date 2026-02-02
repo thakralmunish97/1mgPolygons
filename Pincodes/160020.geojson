@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "160020",
+        "Office_Name": "Sector 20 Chandigarh SO",
+        "Division": "Chandigarh ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.784885,
+              30.727638
+            ],
+            [
+              76.773459,
+              30.720392
+            ],
+            [
+              76.767899,
+              30.716978
+            ],
+            [
+              76.762111,
+              30.713424
+            ],
+            [
+              76.76751,
+              30.707693
+            ],
+            [
+              76.790419,
+              30.721839
+            ],
+            [
+              76.784885,
+              30.727638
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

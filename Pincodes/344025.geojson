@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "344025",
+        "Office_Name": "Mewanagar S.O",
+        "Division": "Barmer ",
+        "Region": "Jodhpur ",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.122454,
+              25.785725
+            ],
+            [
+              72.139213,
+              25.776809
+            ],
+            [
+              72.160688,
+              25.77362
+            ],
+            [
+              72.168413,
+              25.782838
+            ],
+            [
+              72.164039,
+              25.81179
+            ],
+            [
+              72.135395,
+              25.811135
+            ],
+            [
+              72.122842,
+              25.797882
+            ],
+            [
+              72.122454,
+              25.785725
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

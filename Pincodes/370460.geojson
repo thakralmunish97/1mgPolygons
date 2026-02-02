@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "370460",
+        "Office_Name": "Koday SO",
+        "Division": "Kutch ",
+        "Region": "Rajkot ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.427373,
+              22.937211
+            ],
+            [
+              69.423251,
+              22.935946
+            ],
+            [
+              69.377567,
+              22.911598
+            ],
+            [
+              69.391994,
+              22.869849
+            ],
+            [
+              69.434833,
+              22.879022
+            ],
+            [
+              69.44081,
+              22.898487
+            ],
+            [
+              69.427373,
+              22.937211
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

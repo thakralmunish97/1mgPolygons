@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "825421",
+        "Office_Name": "Koderma Thermal Power Station SO",
+        "Division": "Hazaribagh ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.545326,
+              24.39144
+            ],
+            [
+              85.547086,
+              24.386152
+            ],
+            [
+              85.547966,
+              24.383508
+            ],
+            [
+              85.566537,
+              24.375271
+            ],
+            [
+              85.574245,
+              24.390639
+            ],
+            [
+              85.553731,
+              24.401527
+            ],
+            [
+              85.550592,
+              24.39776
+            ],
+            [
+              85.545326,
+              24.39144
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

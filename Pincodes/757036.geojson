@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "757036",
+        "Office_Name": "Tato S.O",
+        "Division": "Rairangpur ",
+        "Region": "Bhubaneswar HQ ",
+        "Circle": "Odisha "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.080627,
+              21.776877
+            ],
+            [
+              86.094553,
+              21.759675
+            ],
+            [
+              86.112302,
+              21.765199
+            ],
+            [
+              86.106768,
+              21.776837
+            ],
+            [
+              86.093158,
+              21.780742
+            ],
+            [
+              86.083157,
+              21.781619
+            ],
+            [
+              86.080627,
+              21.776877
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "507119",
+        "Office_Name": "Rudrampur S.O",
+        "Division": "Khammam ",
+        "Region": "Hyderabad ",
+        "Circle": "Telangana "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.657072,
+              17.507043
+            ],
+            [
+              80.64761,
+              17.501646
+            ],
+            [
+              80.636448,
+              17.495509
+            ],
+            [
+              80.640434,
+              17.477012
+            ],
+            [
+              80.655263,
+              17.46645
+            ],
+            [
+              80.67347,
+              17.471773
+            ],
+            [
+              80.679297,
+              17.487971
+            ],
+            [
+              80.668858,
+              17.495838
+            ],
+            [
+              80.657072,
+              17.507043
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

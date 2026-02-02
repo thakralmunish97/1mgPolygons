@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "225404",
+        "Office_Name": "Dariyabad RS SO",
+        "Division": "Barabanki ",
+        "Region": "Lucknow  HQ ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.575722,
+              26.884052
+            ],
+            [
+              81.55872,
+              26.899641
+            ],
+            [
+              81.541718,
+              26.891414
+            ],
+            [
+              81.509173,
+              26.897042
+            ],
+            [
+              81.511115,
+              26.881454
+            ],
+            [
+              81.575722,
+              26.884052
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

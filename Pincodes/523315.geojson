@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523315",
+        "Office_Name": "Gajjalakonda S.O",
+        "Division": "Markapur  ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.413815,
+              15.748145
+            ],
+            [
+              79.395103,
+              15.819342
+            ],
+            [
+              79.369869,
+              15.828755
+            ],
+            [
+              79.317513,
+              15.821324
+            ],
+            [
+              79.294342,
+              15.776703
+            ],
+            [
+              79.282837,
+              15.755249
+            ],
+            [
+              79.307427,
+              15.721965
+            ],
+            [
+              79.334617,
+              15.684806
+            ],
+            [
+              79.413815,
+              15.748145
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

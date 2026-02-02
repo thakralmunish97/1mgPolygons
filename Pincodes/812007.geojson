@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "812007",
+        "Office_Name": "T N B College SO",
+        "Division": "Bhagalpur ",
+        "Region": "East , Bhagalpur",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.957464,
+              25.241229
+            ],
+            [
+              86.957456,
+              25.241231
+            ],
+            [
+              86.957042,
+              25.241285
+            ],
+            [
+              86.949326,
+              25.2423
+            ],
+            [
+              86.946938,
+              25.238932
+            ],
+            [
+              86.955333,
+              25.236134
+            ],
+            [
+              86.957464,
+              25.241229
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

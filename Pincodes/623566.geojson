@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "623566",
+        "Office_Name": "Ervadi Dargha SO",
+        "Division": "Ramanathapuram ",
+        "Region": "Southern , Madurai",
+        "Circle": "Tamilnadu "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.725657,
+              9.228382
+            ],
+            [
+              78.730026,
+              9.234372
+            ],
+            [
+              78.713468,
+              9.240972
+            ],
+            [
+              78.689097,
+              9.239277
+            ],
+            [
+              78.699051,
+              9.213184
+            ],
+            [
+              78.71789,
+              9.219755
+            ],
+            [
+              78.722016,
+              9.223589
+            ],
+            [
+              78.725657,
+              9.228382
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

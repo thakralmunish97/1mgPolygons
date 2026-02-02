@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "231311",
+        "Office_Name": "Chunar Cement Factory SO",
+        "Division": "Mirzapur ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.87214,
+              25.091544
+            ],
+            [
+              82.882518,
+              25.085223
+            ],
+            [
+              82.906977,
+              25.085443
+            ],
+            [
+              82.905035,
+              25.092094
+            ],
+            [
+              82.895263,
+              25.096821
+            ],
+            [
+              82.888344,
+              25.095502
+            ],
+            [
+              82.88003,
+              25.096876
+            ],
+            [
+              82.87214,
+              25.091544
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

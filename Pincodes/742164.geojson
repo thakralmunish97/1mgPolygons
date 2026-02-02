@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "742164",
+        "Office_Name": "Roshanbagh SO",
+        "Division": "Murshidabad ",
+        "Region": "Kolkata ",
+        "Circle": "West Bengal "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.314144,
+              24.132863
+            ],
+            [
+              88.320334,
+              24.141623
+            ],
+            [
+              88.335263,
+              24.150091
+            ],
+            [
+              88.330762,
+              24.159324
+            ],
+            [
+              88.330039,
+              24.166079
+            ],
+            [
+              88.282618,
+              24.171031
+            ],
+            [
+              88.290089,
+              24.145265
+            ],
+            [
+              88.314144,
+              24.132863
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

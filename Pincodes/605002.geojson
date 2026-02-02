@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "605002",
+        "Office_Name": "Sri Aurobindo Ashram SO",
+        "Division": "Pondicherry ",
+        "Region": "Chennai City ",
+        "Circle": "Tamilnadu "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.833956,
+              11.936418
+            ],
+            [
+              79.834449,
+              11.936093
+            ],
+            [
+              79.834959,
+              11.936434
+            ],
+            [
+              79.833996,
+              11.936886
+            ],
+            [
+              79.833956,
+              11.936418
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

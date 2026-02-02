@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "799007",
+        "Office_Name": "Dhaleswar S.O",
+        "Division": "Agartala ",
+        "Region": "North East - I ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.290936,
+              23.830816
+            ],
+            [
+              91.305356,
+              23.837711
+            ],
+            [
+              91.306343,
+              23.840489
+            ],
+            [
+              91.306692,
+              23.842207
+            ],
+            [
+              91.298661,
+              23.845336
+            ],
+            [
+              91.290572,
+              23.84089
+            ],
+            [
+              91.290947,
+              23.839556
+            ],
+            [
+              91.291366,
+              23.834348
+            ],
+            [
+              91.290936,
+              23.830816
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

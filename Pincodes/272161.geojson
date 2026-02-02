@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "272161",
+        "Office_Name": "Babhnan SO",
+        "Division": "Basti ",
+        "Region": "Gorakhpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.504435,
+              26.935114
+            ],
+            [
+              82.504368,
+              26.935141
+            ],
+            [
+              82.504246,
+              26.93519
+            ],
+            [
+              82.504245,
+              26.935072
+            ],
+            [
+              82.504243,
+              26.934945
+            ],
+            [
+              82.504243,
+              26.934913
+            ],
+            [
+              82.504435,
+              26.935114
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

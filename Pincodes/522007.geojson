@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522007",
+        "Office_Name": "Chandramoulinagar S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.437833,
+              16.322888
+            ],
+            [
+              80.427328,
+              16.325538
+            ],
+            [
+              80.424748,
+              16.329237
+            ],
+            [
+              80.421149,
+              16.317483
+            ],
+            [
+              80.42246,
+              16.313096
+            ],
+            [
+              80.433994,
+              16.308319
+            ],
+            [
+              80.436508,
+              16.30663
+            ],
+            [
+              80.437833,
+              16.322888
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

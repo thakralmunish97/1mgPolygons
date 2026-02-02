@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523001",
+        "Office_Name": "Ongole H.O",
+        "Division": "Prakasam ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.049137,
+              15.529611
+            ],
+            [
+              80.044342,
+              15.520313
+            ],
+            [
+              80.035724,
+              15.504582
+            ],
+            [
+              80.038103,
+              15.478245
+            ],
+            [
+              80.052427,
+              15.47144
+            ],
+            [
+              80.071168,
+              15.501015
+            ],
+            [
+              80.08605,
+              15.506812
+            ],
+            [
+              80.049137,
+              15.529611
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

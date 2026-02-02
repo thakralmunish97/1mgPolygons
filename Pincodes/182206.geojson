@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "182206",
+        "Office_Name": "Dul Hasti Project SO",
+        "Division": "Udhampur ",
+        "Region": "",
+        "Circle": "Jammukashmir "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.770154,
+              33.307104
+            ],
+            [
+              75.775606,
+              33.306207
+            ],
+            [
+              75.782475,
+              33.315069
+            ],
+            [
+              75.777238,
+              33.318908
+            ],
+            [
+              75.770197,
+              33.316792
+            ],
+            [
+              75.767879,
+              33.313096
+            ],
+            [
+              75.770154,
+              33.307104
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

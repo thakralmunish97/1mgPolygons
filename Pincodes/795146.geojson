@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "795146",
+        "Office_Name": "Lamsang S.O",
+        "Division": "Manipur ",
+        "Region": "North East - II ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.85225,
+              24.90263
+            ],
+            [
+              93.872341,
+              24.849058
+            ],
+            [
+              93.905207,
+              24.848727
+            ],
+            [
+              93.882124,
+              24.875068
+            ],
+            [
+              93.85225,
+              24.90263
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "410402",
+        "Office_Name": "Ins Shivaji Lonavale S.O",
+        "Division": "Pune Moffusil ",
+        "Region": "Pune ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.358631,
+              18.72308
+            ],
+            [
+              73.388414,
+              18.698855
+            ],
+            [
+              73.394508,
+              18.701212
+            ],
+            [
+              73.39777,
+              18.724462
+            ],
+            [
+              73.379745,
+              18.733404
+            ],
+            [
+              73.376741,
+              18.738362
+            ],
+            [
+              73.363609,
+              18.733648
+            ],
+            [
+              73.358631,
+              18.72308
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

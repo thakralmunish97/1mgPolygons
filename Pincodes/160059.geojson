@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "160059",
+        "Office_Name": "Chandigarh Sector 59 SO",
+        "Division": "Chandigarh ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.731648,
+              30.722359
+            ],
+            [
+              76.724181,
+              30.717489
+            ],
+            [
+              76.718946,
+              30.72376
+            ],
+            [
+              76.707959,
+              30.716345
+            ],
+            [
+              76.717904,
+              30.704474
+            ],
+            [
+              76.729375,
+              30.711675
+            ],
+            [
+              76.731196,
+              30.71298
+            ],
+            [
+              76.733198,
+              30.715119
+            ],
+            [
+              76.731648,
+              30.722359
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

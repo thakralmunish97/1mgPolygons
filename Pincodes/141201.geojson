@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "141201",
+        "Office_Name": "Kila Raipur SO",
+        "Division": "Ludhiana Moffusil ",
+        "Region": "",
+        "Circle": "Punjab "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.835162,
+              30.771952
+            ],
+            [
+              75.821457,
+              30.774298
+            ],
+            [
+              75.805321,
+              30.7628
+            ],
+            [
+              75.806351,
+              30.752333
+            ],
+            [
+              75.827808,
+              30.749253
+            ],
+            [
+              75.835533,
+              30.761489
+            ],
+            [
+              75.835162,
+              30.771952
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

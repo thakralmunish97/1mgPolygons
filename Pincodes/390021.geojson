@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "390021",
+        "Office_Name": "T B Sanatorium SO",
+        "Division": "Vadodara West ",
+        "Region": "Vadodara ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.163843,
+              22.310353
+            ],
+            [
+              73.154032,
+              22.321723
+            ],
+            [
+              73.135504,
+              22.32568
+            ],
+            [
+              73.1294,
+              22.322592
+            ],
+            [
+              73.123816,
+              22.313385
+            ],
+            [
+              73.134123,
+              22.309294
+            ],
+            [
+              73.138097,
+              22.315518
+            ],
+            [
+              73.163843,
+              22.310353
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

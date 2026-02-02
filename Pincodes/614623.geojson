@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "614623",
+        "Office_Name": "Avanam S.O",
+        "Division": "Pattukottai ",
+        "Region": "Central , Trichirapalli",
+        "Circle": "Tamilnadu "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.17637,
+              10.354659
+            ],
+            [
+              79.106984,
+              10.330119
+            ],
+            [
+              79.121934,
+              10.317051
+            ],
+            [
+              79.12956,
+              10.303139
+            ],
+            [
+              79.127756,
+              10.288404
+            ],
+            [
+              79.127341,
+              10.275484
+            ],
+            [
+              79.157641,
+              10.280045
+            ],
+            [
+              79.172748,
+              10.30065
+            ],
+            [
+              79.172714,
+              10.324685
+            ],
+            [
+              79.17637,
+              10.354659
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

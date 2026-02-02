@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "225120",
+        "Office_Name": "Usmanpur SO",
+        "Division": "Barabanki ",
+        "Region": "Lucknow  HQ ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.325664,
+              26.752265
+            ],
+            [
+              81.325751,
+              26.752455
+            ],
+            [
+              81.325569,
+              26.752565
+            ],
+            [
+              81.325421,
+              26.752342
+            ],
+            [
+              81.325664,
+              26.752265
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

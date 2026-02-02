@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523168",
+        "Office_Name": "Karamchedu S.O",
+        "Division": "Prakasam ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.383358,
+              15.942348
+            ],
+            [
+              80.307999,
+              15.88589
+            ],
+            [
+              80.321388,
+              15.871691
+            ],
+            [
+              80.375633,
+              15.913131
+            ],
+            [
+              80.386448,
+              15.923696
+            ],
+            [
+              80.396061,
+              15.933105
+            ],
+            [
+              80.383358,
+              15.942348
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

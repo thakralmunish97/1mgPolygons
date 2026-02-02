@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "383260",
+        "Office_Name": "Akrund SO",
+        "Division": "Sabarkantha ",
+        "Region": "Ahmedabad HQ ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.068008,
+              23.251441
+            ],
+            [
+              73.128915,
+              23.259008
+            ],
+            [
+              73.156929,
+              23.250179
+            ],
+            [
+              73.174095,
+              23.276673
+            ],
+            [
+              73.154274,
+              23.299467
+            ],
+            [
+              73.140689,
+              23.315089
+            ],
+            [
+              73.092136,
+              23.288111
+            ],
+            [
+              73.072815,
+              23.275727
+            ],
+            [
+              73.068008,
+              23.251441
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

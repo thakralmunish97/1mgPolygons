@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "431115",
+        "Office_Name": "Deogaon Rangari S.O",
+        "Division": "Chhatrapati Sambhajinagar ",
+        "Region": "al Office, Aurangabad",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.090783,
+              19.993998
+            ],
+            [
+              75.056111,
+              20.069657
+            ],
+            [
+              75.073087,
+              20.080842
+            ],
+            [
+              75.090064,
+              20.092026
+            ],
+            [
+              75.081044,
+              20.098832
+            ],
+            [
+              75.047768,
+              20.123945
+            ],
+            [
+              75.002626,
+              20.158006
+            ],
+            [
+              74.913798,
+              20.083109
+            ],
+            [
+              74.832786,
+              20.025155
+            ],
+            [
+              74.904324,
+              20.030774
+            ],
+            [
+              74.962661,
+              19.978834
+            ],
+            [
+              75.090783,
+              19.993998
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

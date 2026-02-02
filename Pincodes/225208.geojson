@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "225208",
+        "Office_Name": "Tilokpur SO Barabanki",
+        "Division": "Barabanki ",
+        "Region": "Lucknow  HQ ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.304447,
+              27.058209
+            ],
+            [
+              81.315267,
+              27.06203
+            ],
+            [
+              81.318186,
+              27.067228
+            ],
+            [
+              81.312862,
+              27.071813
+            ],
+            [
+              81.306336,
+              27.070896
+            ],
+            [
+              81.300668,
+              27.066463
+            ],
+            [
+              81.298092,
+              27.06203
+            ],
+            [
+              81.304447,
+              27.058209
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

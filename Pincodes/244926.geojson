@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244926",
+        "Office_Name": "Modipur SO",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.019779,
+              28.781953
+            ],
+            [
+              79.034023,
+              28.770969
+            ],
+            [
+              79.036168,
+              28.778718
+            ],
+            [
+              79.030505,
+              28.788799
+            ],
+            [
+              79.02201,
+              28.793312
+            ],
+            [
+              79.019779,
+              28.781953
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

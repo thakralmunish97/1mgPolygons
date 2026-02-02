@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "493196",
+        "Office_Name": "Grasim Vihar Rawan SO",
+        "Division": "Raipur ",
+        "Region": "",
+        "Circle": "Chattisgarh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.596466,
+              20.893134
+            ],
+            [
+              81.603628,
+              20.893134
+            ],
+            [
+              81.604356,
+              20.895629
+            ],
+            [
+              81.599258,
+              20.899257
+            ],
+            [
+              81.596466,
+              20.898123
+            ],
+            [
+              81.596466,
+              20.893134
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

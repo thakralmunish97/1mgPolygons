@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522238",
+        "Office_Name": "A.P.Secretariat S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.519159,
+              16.516704
+            ],
+            [
+              80.512761,
+              16.516828
+            ],
+            [
+              80.510658,
+              16.51117
+            ],
+            [
+              80.518515,
+              16.509216
+            ],
+            [
+              80.521499,
+              16.513659
+            ],
+            [
+              80.519159,
+              16.516704
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

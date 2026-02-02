@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "361005",
+        "Office_Name": "Digvijay Plot SO",
+        "Division": "Jamnagar ",
+        "Region": "Rajkot ",
+        "Circle": "Gujarat "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.081435,
+              22.452846
+            ],
+            [
+              70.074888,
+              22.418488
+            ],
+            [
+              70.074921,
+              22.418646
+            ],
+            [
+              70.106844,
+              22.432253
+            ],
+            [
+              70.093492,
+              22.440555
+            ],
+            [
+              70.095204,
+              22.447933
+            ],
+            [
+              70.081435,
+              22.452846
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

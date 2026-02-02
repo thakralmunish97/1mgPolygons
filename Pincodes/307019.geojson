@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "307019",
+        "Office_Name": "Jkpuram S.O",
+        "Division": "Sirohi ",
+        "Region": "Jodhpur ",
+        "Circle": "Rajasthan "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.967753,
+              24.703172
+            ],
+            [
+              73.001746,
+              24.681961
+            ],
+            [
+              73.027833,
+              24.671354
+            ],
+            [
+              73.079624,
+              24.677906
+            ],
+            [
+              73.053862,
+              24.726251
+            ],
+            [
+              73.001007,
+              24.734091
+            ],
+            [
+              72.967753,
+              24.703172
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

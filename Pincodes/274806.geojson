@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "274806",
+        "Office_Name": "Deoria Railway Station SO",
+        "Division": "Deoria ",
+        "Region": "Gorakhpur ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.788176,
+              26.505987
+            ],
+            [
+              83.785285,
+              26.507989
+            ],
+            [
+              83.780966,
+              26.51098
+            ],
+            [
+              83.777018,
+              26.50737
+            ],
+            [
+              83.780365,
+              26.500764
+            ],
+            [
+              83.786459,
+              26.501225
+            ],
+            [
+              83.788176,
+              26.505987
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

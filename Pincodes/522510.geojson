@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522510",
+        "Office_Name": "Nagarjuna Nagar S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.534837,
+              16.382376
+            ],
+            [
+              80.522389,
+              16.388839
+            ],
+            [
+              80.514005,
+              16.379232
+            ],
+            [
+              80.531506,
+              16.370497
+            ],
+            [
+              80.534837,
+              16.382376
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

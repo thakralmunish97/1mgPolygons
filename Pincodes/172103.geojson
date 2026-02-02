@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "172103",
+        "Office_Name": "Nichar SO",
+        "Division": "Rampur Bushahr ",
+        "Region": "",
+        "Circle": "Himachal Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.999075,
+              31.534067
+            ],
+            [
+              77.99396,
+              31.545293
+            ],
+            [
+              77.981214,
+              31.573271
+            ],
+            [
+              77.964039,
+              31.563618
+            ],
+            [
+              77.941466,
+              31.560985
+            ],
+            [
+              77.938549,
+              31.544016
+            ],
+            [
+              77.954971,
+              31.539902
+            ],
+            [
+              77.977092,
+              31.53436
+            ],
+            [
+              77.999075,
+              31.534067
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "531060",
+        "Office_Name": "S Rayavaram S.O",
+        "Division": "Anakapalle ",
+        "Region": "Visakhapatnam ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.779322,
+              17.457028
+            ],
+            [
+              82.810736,
+              17.443354
+            ],
+            [
+              82.838287,
+              17.416412
+            ],
+            [
+              82.846224,
+              17.451049
+            ],
+            [
+              82.829018,
+              17.469883
+            ],
+            [
+              82.779322,
+              17.457028
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

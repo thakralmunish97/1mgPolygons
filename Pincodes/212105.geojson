@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "212105",
+        "Office_Name": "Chheoki SO",
+        "Division": "Prayagraj ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.848183,
+              25.381299
+            ],
+            [
+              81.848851,
+              25.380862
+            ],
+            [
+              81.850489,
+              25.38097
+            ],
+            [
+              81.851642,
+              25.381655
+            ],
+            [
+              81.851127,
+              25.383657
+            ],
+            [
+              81.849185,
+              25.384508
+            ],
+            [
+              81.847061,
+              25.383849
+            ],
+            [
+              81.846545,
+              25.382176
+            ],
+            [
+              81.848183,
+              25.381299
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "533292",
+        "Office_Name": "Dosakayapalli S.O",
+        "Division": "Rajahmundry ",
+        "Region": "Visakhapatnam ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.868953,
+              17.120358
+            ],
+            [
+              81.865182,
+              17.138494
+            ],
+            [
+              81.833405,
+              17.145092
+            ],
+            [
+              81.784286,
+              17.125042
+            ],
+            [
+              81.787891,
+              17.112246
+            ],
+            [
+              81.831236,
+              17.117004
+            ],
+            [
+              81.869173,
+              17.1193
+            ],
+            [
+              81.868953,
+              17.120358
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

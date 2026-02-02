@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244928",
+        "Office_Name": "Kemri SO Rampur",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.188553,
+              28.774889
+            ],
+            [
+              79.210052,
+              28.772474
+            ],
+            [
+              79.225159,
+              28.795794
+            ],
+            [
+              79.227823,
+              28.805526
+            ],
+            [
+              79.163002,
+              28.849238
+            ],
+            [
+              79.146322,
+              28.809355
+            ],
+            [
+              79.188553,
+              28.774889
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

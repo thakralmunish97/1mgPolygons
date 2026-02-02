@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "243724",
+        "Office_Name": "Rudain SO",
+        "Division": "Budaun ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.826394,
+              28.405595
+            ],
+            [
+              78.742464,
+              28.369048
+            ],
+            [
+              78.761673,
+              28.283219
+            ],
+            [
+              78.840122,
+              28.196792
+            ],
+            [
+              78.878459,
+              28.24563
+            ],
+            [
+              78.850046,
+              28.332955
+            ],
+            [
+              78.84189,
+              28.358009
+            ],
+            [
+              78.835982,
+              28.376155
+            ],
+            [
+              78.826394,
+              28.405595
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

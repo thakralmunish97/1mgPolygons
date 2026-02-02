@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "230130",
+        "Office_Name": "Laxmanpur SO",
+        "Division": "Pratapgarh ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.768339,
+              25.882286
+            ],
+            [
+              81.769109,
+              25.888175
+            ],
+            [
+              81.773578,
+              25.907355
+            ],
+            [
+              81.761284,
+              25.901824
+            ],
+            [
+              81.752742,
+              25.910608
+            ],
+            [
+              81.747952,
+              25.908557
+            ],
+            [
+              81.750501,
+              25.897416
+            ],
+            [
+              81.748923,
+              25.888351
+            ],
+            [
+              81.752686,
+              25.883326
+            ],
+            [
+              81.768339,
+              25.882286
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "801506",
+        "Office_Name": "SAHAYNAGAR S.O",
+        "Division": "Patna ",
+        "Region": "",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.074476,
+              25.605257
+            ],
+            [
+              85.074494,
+              25.605211
+            ],
+            [
+              85.074523,
+              25.60513
+            ],
+            [
+              85.074633,
+              25.605198
+            ],
+            [
+              85.074591,
+              25.605313
+            ],
+            [
+              85.074485,
+              25.605316
+            ],
+            [
+              85.074476,
+              25.605257
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

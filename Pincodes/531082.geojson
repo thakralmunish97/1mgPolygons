@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "531082",
+        "Office_Name": "Etikoppaka S.O",
+        "Division": "Anakapalle ",
+        "Region": "Visakhapatnam ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.735977,
+              17.502301
+            ],
+            [
+              82.730999,
+              17.492641
+            ],
+            [
+              82.728081,
+              17.481672
+            ],
+            [
+              82.746449,
+              17.462023
+            ],
+            [
+              82.752972,
+              17.476596
+            ],
+            [
+              82.756104,
+              17.487505
+            ],
+            [
+              82.744389,
+              17.491004
+            ],
+            [
+              82.738895,
+              17.497553
+            ],
+            [
+              82.735977,
+              17.502301
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

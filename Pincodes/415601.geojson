@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "415601",
+        "Office_Name": "Pophali S.O",
+        "Division": "RATNAGIRI ",
+        "Region": "Goa-Panaji ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.671376,
+              17.448308
+            ],
+            [
+              73.670889,
+              17.446849
+            ],
+            [
+              73.639087,
+              17.429721
+            ],
+            [
+              73.642998,
+              17.431827
+            ],
+            [
+              73.653697,
+              17.392795
+            ],
+            [
+              73.670197,
+              17.393947
+            ],
+            [
+              73.680668,
+              17.429958
+            ],
+            [
+              73.692684,
+              17.44076
+            ],
+            [
+              73.671376,
+              17.448308
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

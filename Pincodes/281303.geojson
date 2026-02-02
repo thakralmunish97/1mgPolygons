@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "281303",
+        "Office_Name": "Gokul SO",
+        "Division": "Mathura ",
+        "Region": "Agra ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.710319,
+              27.455204
+            ],
+            [
+              77.709083,
+              27.446366
+            ],
+            [
+              77.709083,
+              27.446366
+            ],
+            [
+              77.705218,
+              27.418738
+            ],
+            [
+              77.734088,
+              27.421629
+            ],
+            [
+              77.738685,
+              27.444154
+            ],
+            [
+              77.710319,
+              27.455204
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

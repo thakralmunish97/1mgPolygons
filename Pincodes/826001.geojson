@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "826001",
+        "Office_Name": "Dhanbad HO",
+        "Division": "Dhanbad ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.433692,
+              23.797381
+            ],
+            [
+              86.434201,
+              23.796764
+            ],
+            [
+              86.434784,
+              23.797014
+            ],
+            [
+              86.434636,
+              23.797263
+            ],
+            [
+              86.434035,
+              23.797616
+            ],
+            [
+              86.433692,
+              23.797381
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

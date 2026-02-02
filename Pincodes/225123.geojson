@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "225123",
+        "Office_Name": "Somaiya Nagar SO",
+        "Division": "Barabanki ",
+        "Region": "Lucknow  HQ ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.189307,
+              26.951114
+            ],
+            [
+              81.190799,
+              26.94976
+            ],
+            [
+              81.193219,
+              26.949746
+            ],
+            [
+              81.194722,
+              26.950927
+            ],
+            [
+              81.194749,
+              26.952285
+            ],
+            [
+              81.190885,
+              26.952806
+            ],
+            [
+              81.189758,
+              26.951855
+            ],
+            [
+              81.189307,
+              26.951114
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

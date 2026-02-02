@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "523165",
+        "Office_Name": "Jandrapet S.O",
+        "Division": "Prakasam ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3166,
+              15.802433
+            ],
+            [
+              80.33956,
+              15.796528
+            ],
+            [
+              80.35016,
+              15.801236
+            ],
+            [
+              80.35458,
+              15.804663
+            ],
+            [
+              80.34192,
+              15.813376
+            ],
+            [
+              80.340547,
+              15.818
+            ],
+            [
+              80.3166,
+              15.802433
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

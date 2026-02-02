@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "516270",
+        "Office_Name": "Masapet Bazar S.O",
+        "Division": "Cuddapah ",
+        "Region": "Kurnool ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.686917,
+              14.110894
+            ],
+            [
+              78.722847,
+              14.076988
+            ],
+            [
+              78.756591,
+              14.065685
+            ],
+            [
+              78.795191,
+              14.075811
+            ],
+            [
+              78.795434,
+              14.089939
+            ],
+            [
+              78.779411,
+              14.117487
+            ],
+            [
+              78.686917,
+              14.110894
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

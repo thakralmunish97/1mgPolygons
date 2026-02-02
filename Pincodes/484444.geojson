@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "484444",
+        "Office_Name": "Jamuna Colliery S.O",
+        "Division": "Shahdol ",
+        "Region": "Jabalpur ",
+        "Circle": "Madhya Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.894679,
+              23.100111
+            ],
+            [
+              81.935799,
+              23.099107
+            ],
+            [
+              81.950371,
+              23.125007
+            ],
+            [
+              81.9562,
+              23.159608
+            ],
+            [
+              81.973259,
+              23.181553
+            ],
+            [
+              81.933037,
+              23.176905
+            ],
+            [
+              81.904134,
+              23.167755
+            ],
+            [
+              81.892961,
+              23.191968
+            ],
+            [
+              81.889695,
+              23.133044
+            ],
+            [
+              81.894679,
+              23.100111
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

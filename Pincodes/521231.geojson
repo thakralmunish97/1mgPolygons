@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "521231",
+        "Office_Name": "JNNURM Colony S.O",
+        "Division": "Vijayawada ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.616002,
+              16.565948
+            ],
+            [
+              80.603675,
+              16.56431
+            ],
+            [
+              80.605101,
+              16.552733
+            ],
+            [
+              80.605102,
+              16.552728
+            ],
+            [
+              80.605195,
+              16.552256
+            ],
+            [
+              80.605196,
+              16.552256
+            ],
+            [
+              80.615676,
+              16.549688
+            ],
+            [
+              80.617565,
+              16.555858
+            ],
+            [
+              80.618946,
+              16.56152
+            ],
+            [
+              80.616002,
+              16.565948
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

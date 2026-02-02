@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "422112",
+        "Office_Name": "I.A. Musalgaon Sinnar S.O",
+        "Division": "Nasik ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.090853,
+              19.811284
+            ],
+            [
+              74.125003,
+              19.831794
+            ],
+            [
+              74.120885,
+              19.862795
+            ],
+            [
+              74.056359,
+              19.867638
+            ],
+            [
+              74.020863,
+              19.845806
+            ],
+            [
+              74.039308,
+              19.82434
+            ],
+            [
+              74.090853,
+              19.811284
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

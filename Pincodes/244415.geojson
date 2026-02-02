@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "244415",
+        "Office_Name": "Raja Ka Sahaspur SO",
+        "Division": "Moradabad ",
+        "Region": "Bareilly ",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.770125,
+              28.6229
+            ],
+            [
+              78.777348,
+              28.619065
+            ],
+            [
+              78.78287,
+              28.622421
+            ],
+            [
+              78.784145,
+              28.630092
+            ],
+            [
+              78.779775,
+              28.632809
+            ],
+            [
+              78.774981,
+              28.632596
+            ],
+            [
+              78.768972,
+              28.627535
+            ],
+            [
+              78.770125,
+              28.6229
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "585323",
+        "Office_Name": "Sagar S.O",
+        "Division": "YADGIRI ",
+        "Region": "North Karnataka ",
+        "Circle": "Karnataka "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.770352,
+              16.605597
+            ],
+            [
+              76.871338,
+              16.621388
+            ],
+            [
+              76.895382,
+              16.662835
+            ],
+            [
+              76.899194,
+              16.672364
+            ],
+            [
+              76.769067,
+              16.668319
+            ],
+            [
+              76.751116,
+              16.667769
+            ],
+            [
+              76.732911,
+              16.619086
+            ],
+            [
+              76.770352,
+              16.605597
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

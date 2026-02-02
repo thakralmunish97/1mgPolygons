@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "790001",
+        "Office_Name": "Bomdila S.O",
+        "Division": "Arunachal Pradesh ",
+        "Region": "Shillong HQ ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.361068,
+              27.283806
+            ],
+            [
+              92.421725,
+              27.22969
+            ],
+            [
+              92.447376,
+              27.236624
+            ],
+            [
+              92.484627,
+              27.267602
+            ],
+            [
+              92.415276,
+              27.305583
+            ],
+            [
+              92.361068,
+              27.283806
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

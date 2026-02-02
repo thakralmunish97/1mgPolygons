@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "422113",
+        "Office_Name": "Ind. Est. Malegaon Sinnar S.O",
+        "Division": "Nasik ",
+        "Region": "Navi Mumbai ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.939361,
+              19.886042
+            ],
+            [
+              73.931108,
+              19.844066
+            ],
+            [
+              73.96562,
+              19.841644
+            ],
+            [
+              73.982481,
+              19.855182
+            ],
+            [
+              74.003025,
+              19.871674
+            ],
+            [
+              73.994291,
+              19.887333
+            ],
+            [
+              73.964425,
+              19.897018
+            ],
+            [
+              73.939361,
+              19.886042
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

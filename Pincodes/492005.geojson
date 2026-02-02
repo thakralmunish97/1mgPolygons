@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "492005",
+        "Office_Name": "Vidhan Sabha SO Raipur",
+        "Division": "Raipur ",
+        "Region": "",
+        "Circle": "Chattisgarh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.721718,
+              21.288975
+            ],
+            [
+              81.726573,
+              21.286501
+            ],
+            [
+              81.728315,
+              21.287932
+            ],
+            [
+              81.723159,
+              21.290799
+            ],
+            [
+              81.721718,
+              21.288975
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

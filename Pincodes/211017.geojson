@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "211017",
+        "Office_Name": "Prayagraj High Court S.O",
+        "Division": "Prayagraj ",
+        "Region": "Prayagraj al Office",
+        "Circle": "Uttar Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.822213,
+              25.452343
+            ],
+            [
+              81.822123,
+              25.45428
+            ],
+            [
+              81.821221,
+              25.454435
+            ],
+            [
+              81.820209,
+              25.453055
+            ],
+            [
+              81.822213,
+              25.452343
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

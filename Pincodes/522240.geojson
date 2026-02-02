@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "522240",
+        "Office_Name": "SRM University S.O",
+        "Division": "Guntur ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.519083,
+              16.417644
+            ],
+            [
+              80.557039,
+              16.431146
+            ],
+            [
+              80.545923,
+              16.442574
+            ],
+            [
+              80.543737,
+              16.500367
+            ],
+            [
+              80.514652,
+              16.481852
+            ],
+            [
+              80.459006,
+              16.474279
+            ],
+            [
+              80.519083,
+              16.417644
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

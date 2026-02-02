@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "521245",
+        "Office_Name": "Akunuru S.O",
+        "Division": "Vijayawada ",
+        "Region": "Vijayawada ",
+        "Circle": "Andhra Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.790514,
+              16.401415
+            ],
+            [
+              80.79983,
+              16.381852
+            ],
+            [
+              80.822771,
+              16.36613
+            ],
+            [
+              80.831632,
+              16.377194
+            ],
+            [
+              80.844256,
+              16.40747
+            ],
+            [
+              80.838391,
+              16.4136
+            ],
+            [
+              80.827991,
+              16.42447
+            ],
+            [
+              80.804078,
+              16.417251
+            ],
+            [
+              80.790514,
+              16.401415
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

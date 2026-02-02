@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "465689",
+        "Office_Name": "Chhapiheda S.O",
+        "Division": "Sehore ",
+        "Region": "Indore ",
+        "Circle": "Madhya Pradesh "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52315,
+              23.94892
+            ],
+            [
+              76.388721,
+              23.907672
+            ],
+            [
+              76.415935,
+              23.840186
+            ],
+            [
+              76.474228,
+              23.798877
+            ],
+            [
+              76.499057,
+              23.854128
+            ],
+            [
+              76.494939,
+              23.862417
+            ],
+            [
+              76.52315,
+              23.94892
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

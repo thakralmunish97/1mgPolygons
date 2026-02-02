@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "847215",
+        "Office_Name": "RKCollage SO",
+        "Division": "Madhubani ",
+        "Region": "Muzaffarpur ",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.064207,
+              26.352794
+            ],
+            [
+              86.064313,
+              26.362963
+            ],
+            [
+              86.062818,
+              26.364803
+            ],
+            [
+              86.05923,
+              26.368958
+            ],
+            [
+              86.051188,
+              26.358727
+            ],
+            [
+              86.055392,
+              26.356811
+            ],
+            [
+              86.055579,
+              26.356726
+            ],
+            [
+              86.056597,
+              26.356262
+            ],
+            [
+              86.064207,
+              26.352794
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

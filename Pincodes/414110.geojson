@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "414110",
+        "Office_Name": "MIRC S.O",
+        "Division": "Ahmednagar ",
+        "Region": "Pune ",
+        "Circle": "Maharashtra "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.751984,
+              19.046379
+            ],
+            [
+              74.764555,
+              19.044714
+            ],
+            [
+              74.760547,
+              19.050221
+            ],
+            [
+              74.759695,
+              19.052057
+            ],
+            [
+              74.759819,
+              19.055614
+            ],
+            [
+              74.749965,
+              19.061753
+            ],
+            [
+              74.753959,
+              19.053681
+            ],
+            [
+              74.751984,
+              19.046379
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

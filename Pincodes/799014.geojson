@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "799014",
+        "Office_Name": "Agartala ONGC S.O",
+        "Division": "Agartala ",
+        "Region": "North East - I ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.256754,
+              23.783597
+            ],
+            [
+              91.270012,
+              23.784715
+            ],
+            [
+              91.281366,
+              23.785033
+            ],
+            [
+              91.282461,
+              23.786619
+            ],
+            [
+              91.279736,
+              23.791314
+            ],
+            [
+              91.277482,
+              23.795212
+            ],
+            [
+              91.27287,
+              23.79993
+            ],
+            [
+              91.266757,
+              23.791517
+            ],
+            [
+              91.256754,
+              23.783597
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

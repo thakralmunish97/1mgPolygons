@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "800023",
+        "Office_Name": "LBS Nagar SO",
+        "Division": "Patna ",
+        "Region": "",
+        "Circle": "Bihar "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.093636,
+              25.616045
+            ],
+            [
+              85.092668,
+              25.616269
+            ],
+            [
+              85.091688,
+              25.616377
+            ],
+            [
+              85.093636,
+              25.616045
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

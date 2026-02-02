@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "742409",
+        "Office_Name": "Shaikhpara SO",
+        "Division": "Murshidabad ",
+        "Region": "Kolkata ",
+        "Circle": "West Bengal "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.593566,
+              24.223533
+            ],
+            [
+              88.593509,
+              24.223611
+            ],
+            [
+              88.564087,
+              24.277108
+            ],
+            [
+              88.543071,
+              24.262059
+            ],
+            [
+              88.551693,
+              24.243909
+            ],
+            [
+              88.566064,
+              24.213514
+            ],
+            [
+              88.593554,
+              24.223529
+            ],
+            [
+              88.593551,
+              24.223534
+            ],
+            [
+              88.593566,
+              24.223533
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

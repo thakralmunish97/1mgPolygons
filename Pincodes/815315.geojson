@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "815315",
+        "Office_Name": "Mirzaganj SO",
+        "Division": "Giridih ",
+        "Region": "",
+        "Circle": "Jharkhand "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.182917,
+              24.416788
+            ],
+            [
+              86.169446,
+              24.419323
+            ],
+            [
+              86.128693,
+              24.398071
+            ],
+            [
+              86.176071,
+              24.374932
+            ],
+            [
+              86.195908,
+              24.375769
+            ],
+            [
+              86.22504,
+              24.390583
+            ],
+            [
+              86.212901,
+              24.411144
+            ],
+            [
+              86.182917,
+              24.416788
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

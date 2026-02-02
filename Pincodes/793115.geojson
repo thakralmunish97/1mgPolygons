@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pincode": "793115",
+        "Office_Name": "Sohiong S.O",
+        "Division": "Meghalaya ",
+        "Region": "Shillong HQ ",
+        "Circle": "North Eastern "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.771632,
+              25.521865
+            ],
+            [
+              91.698332,
+              25.516457
+            ],
+            [
+              91.69683,
+              25.505496
+            ],
+            [
+              91.697044,
+              25.485895
+            ],
+            [
+              91.716835,
+              25.476753
+            ],
+            [
+              91.78622,
+              25.494728
+            ],
+            [
+              91.78462,
+              25.500284
+            ],
+            [
+              91.767141,
+              25.510254
+            ],
+            [
+              91.771632,
+              25.521865
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
