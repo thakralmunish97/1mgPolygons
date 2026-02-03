@@ -9,6 +9,8 @@ class City(Enum):
     CHENNAI = "CHN"
     GURGAON = "GGN"
     DELHI = "DEL"
+    LUCKNOW = "LKO"
+    GHAZIABAD = "GZB"
 
 city = City.KOLKATA.value
 storeCode = ""
