@@ -11,6 +11,7 @@ class City(Enum):
     DELHI = "DEL"
     LUCKNOW = "LKO"
     GHAZIABAD = "GZB"
+    PUNE = "PUN"
 
 city = City.KOLKATA.value
 storeCode = ""
